@@ -84,4 +84,6 @@ class Stipendio
             . "Annuale: " . $this->getAnnualSalary();
     }
 }
+
+
 ?>
