@@ -9,6 +9,15 @@
 </head>
 
 <body>
+    <?php
+    include __DIR__ . '/models/salary.php';
+    include __DIR__ . '/models/person.php';
+    include __DIR__ . '/models/employee.php';
+    include __DIR__ . '/models/chief.php';
+    include 'db.php';
+
+    echo "ok";
+    ?>
 
 </body>
 
