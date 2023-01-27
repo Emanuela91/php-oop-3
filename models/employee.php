@@ -2,6 +2,5 @@
 
 include 'person.php';
 
-echo "ok";
 
 ?>

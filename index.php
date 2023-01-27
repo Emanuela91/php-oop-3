@@ -16,7 +16,7 @@
     include __DIR__ . '/models/chief.php';
     include 'db.php';
 
-    echo "ok";
+    echo $stipendio1->getHtml();
     ?>
 
 </body>
